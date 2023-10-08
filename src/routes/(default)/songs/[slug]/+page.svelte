@@ -1,6 +1,6 @@
 <style>
   :global(code) {
-    white-space: break-spaces;
+    white-space: pre-wrap;
   }
 </style>
 <script lang="ts">
