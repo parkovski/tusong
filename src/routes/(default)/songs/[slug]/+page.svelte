@@ -1,3 +1,8 @@
+<style>
+  :global(code) {
+    white-space: break-spaces;
+  }
+</style>
 <script lang="ts">
   import type { PageData } from './$types';
   export let data: PageData;
