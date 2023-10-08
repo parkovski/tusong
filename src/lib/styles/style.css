@@ -7,10 +7,12 @@
 
   --color-logo: #fff;
   --color-header-bg: #fb5100;
-  --color-header-text: #fff;
+  --color-header-text: #f8fcff;
   --color-menu-bg: #fb5100;
+  --color-fullscreen-bg: #fef0e0;
 
-  --color-bg: #e3e3e3;
+  /*--color-bg: #e3e3e3;*/
+  --color-bg: #f4eae0;
   --color-content-bg: #fff;
   --color-text: #111;
   --color-hl: #ef4800;
@@ -59,8 +61,9 @@ footer {
   align-items: center;
   text-align: center;
   height: 100vh;
-  /*background-color: var(--color-header-bg);*/
+  background-color: var(--color-bg);
   color: var(--color-header-text);
+  overflow-y: hidden;
 }
 
 .phone {
