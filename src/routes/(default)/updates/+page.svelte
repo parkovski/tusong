@@ -2,6 +2,10 @@
   export let data;
 </script>
 
+<svelte:head>
+  <title>Tu Song - Updates</title>
+</svelte:head>
+
 <h1>Updates</h1>
 
 <ul>

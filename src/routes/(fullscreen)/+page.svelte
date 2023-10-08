@@ -66,6 +66,10 @@
   }
 </style>
 
+<svelte:head>
+  <title>Tu Song</title>
+</svelte:head>
+
 <div class="fullscreen">
   <div class="title">
     <img src="/sunset.jpg" alt="Sunset" class="logo-wide">

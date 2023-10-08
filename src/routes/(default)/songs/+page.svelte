@@ -8,6 +8,11 @@
     line-height: 150%;
   }
 </style>
+
+<svelte:head>
+  <title>Tu Song - Songs</title>
+</svelte:head>
+
 <h1>Songs</h1>
 <ul>
   <li><a href="/songs/its-a-good-day">It's a Good Day</a></li>

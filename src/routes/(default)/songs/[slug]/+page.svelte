@@ -3,6 +3,11 @@
     white-space: pre-wrap;
   }
 </style>
+
+<svelte:head>
+  <title>Tu Song - Songs - { data.title }</title>
+</svelte:head>
+
 <script lang="ts">
   import type { PageData } from './$types';
   export let data: PageData;

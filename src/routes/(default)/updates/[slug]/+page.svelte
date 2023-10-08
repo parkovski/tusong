@@ -8,6 +8,10 @@
   const date = new Date(dateParts[0], dateParts[1]-1, dateParts[2]).toDateString();
 </script>
 
+<svelte:head>
+  <title>Tu Song - Updates - { data.title }</title>
+</svelte:head>
+
 <article>
   <h1>{ data.title } - <span style="font-weight: normal">{ date }</span></h1>
   <svelte:component this={data.content} />

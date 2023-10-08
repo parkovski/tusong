@@ -1,6 +1,11 @@
 <style>
   ul { line-height: 150%; }
 </style>
+
+<svelte:head>
+  <title>Tu Song - About</title>
+</svelte:head>
+
 <h1>About</h1>
 <p>
   We're a sing-along band in Tucson, AZ singing fun-loving uplifting songs and
