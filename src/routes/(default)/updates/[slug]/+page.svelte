@@ -8,6 +8,12 @@
   const date = new Date(dateParts[0], dateParts[1]-1, dateParts[2]).toDateString();
 </script>
 
+<style>
+  :global(code) {
+    white-space: pre-wrap;
+  }
+</style>
+
 <svelte:head>
   <title>Tu Song - Updates - { data.title }</title>
 </svelte:head>
