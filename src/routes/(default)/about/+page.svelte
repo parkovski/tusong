@@ -13,7 +13,7 @@
 </p>
 <ul>
   <li>
-    Riverfront Park Thursday mornings at 9:00am. First half hour is ecstatic
+    Riverfront Park Thursday mornings at 9:30am. First half hour is ecstatic
     dance, followed by an hour or so of singing and chanting until we get
     hungry.
   </li>
