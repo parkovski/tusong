@@ -1,5 +1,5 @@
 <style>
-  ul { line-height: 150%; }
+  ul, li { line-height: 150%; }
 </style>
 
 <svelte:head>
