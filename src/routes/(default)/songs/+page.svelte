@@ -7,6 +7,10 @@
   const fuse = new Fuse(data.songs, { keys: ['name'] });
 
   function filter(e) {
+    if (e.target.value.length === 0) {
+      filteredSongs = data.songs;
+      return;
+    }
     const result = fuse.search(e.target.value);
     filteredSongs = result.map(x => x.item);
   }
@@ -61,4 +65,7 @@
   {#each filteredSongs as song}
     <li><a href="{song.page}">{song.name}</a></li>
   {/each}
+  {#if filteredSongs.length === 0}
+    <li>No matches</li>
+  {/if}
 </ul>
