@@ -32,23 +32,20 @@
     line-height: 150%;
   }
   #filtersection {
-    display: inline-block;
     float: right;
     position: relative;
     top: -3.5em;
   }
   @media (max-width: 640px) {
     #filtersection {
-      display: block;
       float: none;
       top: 0;
     }
   }
   #clearfilter {
     cursor: pointer;
-  }
-  #clearfilter:hover {
-    text-decoration: none;
+    border: 0;
+    background: inherit;
   }
 </style>
 
@@ -59,7 +56,7 @@
 <h1>Songs</h1>
 <div id="filtersection">
   <label>Search: <input type="text" id="filter" on:input={filter}></label>
-  <a id="clearfilter" on:click={clearFilter}>&#10060;</a>
+  <button id="clearfilter" on:click={clearFilter}>&#10060;</button>
 </div>
 <ul>
   {#each filteredSongs as song}
