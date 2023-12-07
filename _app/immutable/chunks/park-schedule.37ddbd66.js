@@ -1,0 +1,3 @@
+import{S as o,i as c,s as l,k as h,q as d,l as m,m as f,r as p,h as r,b as u,G as _,H as s}from"./index.2b03a11f.js";function C(i){let a,n;return{c(){a=h("p"),n=d(`As of Dec 7, 2023, we will be starting Chi Dance Chant at 10:00am at Riverfront
+Park, Bobcat ramada.`)},l(t){a=m(t,"P",{});var e=f(a);n=p(e,`As of Dec 7, 2023, we will be starting Chi Dance Chant at 10:00am at Riverfront
+Park, Bobcat ramada.`),e.forEach(r)},m(t,e){u(t,a,e),_(a,n)},p:s,i:s,o:s,d(t){t&&r(a)}}}const x={title:"Chi Dance Chant Schedule Change",date:"2023-12-07"};class D extends o{constructor(a){super(),c(this,a,null,C,l,{})}}export{D as default,x as metadata};
