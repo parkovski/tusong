@@ -1,9 +1,10 @@
----
-title: Park Chants and Songs
-date: "2023-10-25"
----
+<svelte:head>
+  <title>Tu Song - Park Music</title>
+</svelte:head>
 
-```
+<h1>Park Sing-along Songs</h1>
+
+<pre style="white-space: pre-wrap">
 1.  (C)  Alleluia (Am) Alleluia (G) Alleluia (F) Alleluia:  I’am on my way 4x:  
               Let there be love, let there be light, let there be hope, and peace of mind
 
@@ -172,4 +173,4 @@ rise-up this morning, smile with the (E7) rising sun, three little (A) birds sit
         Walking and talking with my mind, set on Freedom
         Walk Walk, Walk Walk, Walk Walk with your mind on Freedom.  
         Talk Talk, Talk Talk, Talk Talk, with your mind on Freedom  Woo oo oo.
-```
+</pre>

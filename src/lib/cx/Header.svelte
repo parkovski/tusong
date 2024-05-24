@@ -189,6 +189,8 @@
           </svg>g
         </span>
     </a></li>
+    <li><a href="/chants">Chants</a></li>
+    <li><a href="/park-music">Park Music</a></li>
     <li><a href="/songs">Songs</a></li>
     <li><a href="/updates">Updates</a></li>
     <li><a href="/about">About</a></li>

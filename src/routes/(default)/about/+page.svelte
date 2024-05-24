@@ -13,9 +13,10 @@
 </p>
 <ul>
   <li>
-    Riverfront Park Thursday mornings at 9:30am. First half hour is ecstatic
-    dance, followed by an hour or so of singing and chanting until we get
-    hungry.
+    Riverfront Park Thursday mornings at Chi Dance Chant
+    (<a href="/updates/park-schedule">see schedule</a>).
+    First half hour is ecstatic dance, followed by an hour or so of singing and
+    chanting until we get hungry.
   </li>
   <li>
     Northwest Global Chant at Oro Valley United Church of Christ, 1st, 3rd,
@@ -28,8 +29,13 @@
   </li>
   <li>
     Usually jamming with other musicians and friends after Spirit
-    of Movement Tucson's Ecstatic Dance at Himmel Park, Sunday mornings at
-    10:30am.
+    of Movement Tucson's Ecstatic-type Dance at Himmel Park, Sunday mornings
+    (<a href="https://www.dancemoveconnect.com/">see their site for details</a>).
+  </li>
+  <li>
+    We also have a WhatsApp group; the community is "Oro Valley dance and
+    chant", and the group is "Musical celebrations singing and dancing in Oro Valley
+    mostly".
   </li>
 </ul>
 <p>

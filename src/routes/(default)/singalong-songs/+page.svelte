@@ -1,9 +1,10 @@
----
-title: Singalong Songs
-date: "2023-10-25"
----
+<svelte:head>
+  <title>Tu Song - Singalong Songs</title>
+</svelte:head>
 
-```
+<h1>Singalong Songs</h1>
+
+<pre>
 1.     		A PLACE IN THE SUN
 
 Like a long lonely stream, I keep runnin towards a dream
@@ -539,4 +540,4 @@ WE’RE SINGIN UUOO UUOO  (Am) UUOOOOO
 
 (C) IF IT ALL FALLS (F) APART
 (C) AND WE ARE BACK AT THE (F) START  (STOP)
-```
+</pre>

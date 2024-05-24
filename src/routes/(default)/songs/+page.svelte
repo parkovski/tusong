@@ -31,6 +31,9 @@
     list-style: none;
     line-height: 150%;
   }
+  li.list-break {
+    margin-top: 1em;
+  }
   #filtersection {
     float: right;
     position: relative;
@@ -59,10 +62,15 @@
   <button id="clearfilter" on:click={clearFilter}>&#10060;</button>
 </div>
 <ul>
+  <li>Lyrics only:</li>
   {#each filteredSongs as song}
     <li><a href="{song.page}">{song.name}</a></li>
   {/each}
   {#if filteredSongs.length === 0}
     <li>No matches</li>
   {/if}
+  <li class="list-break">For musicians:</li>
+  <li><a href="/songs-with-chords">Songs with Chords</a></li>
+  <li class="list-break">Master list:</li>
+  <li><a href="/singalong-songs">Singalong songs</a></li>
 </ul>
