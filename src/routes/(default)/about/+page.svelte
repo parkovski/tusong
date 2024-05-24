@@ -1,5 +1,6 @@
 <style>
   ul, li { line-height: 150%; }
+  #group-photo { max-width: 100%; }
 </style>
 
 <svelte:head>
@@ -7,6 +8,7 @@
 </svelte:head>
 
 <h1>About</h1>
+<img id="group-photo" src="/chi-dance.jpg" alt="Park group">
 <p>
   We're a sing-along band in Tucson, AZ singing fun-loving uplifting songs and
   chants. Find us at*:
