@@ -4,7 +4,7 @@
 
 <h1>Singalong Songs</h1>
 
-<pre>
+<pre style="white-space: pre-wrap">
 1.     		A PLACE IN THE SUN
 
 Like a long lonely stream, I keep runnin towards a dream
@@ -235,7 +235,7 @@ Cause it’s a good day from mornin’  till night
 Just a little love,  A little bit of love
 
 All I need is some water to drink,
-a quiet place where I can sit & think
+a quiet place where I can sit &amp; think
 And if I find a pot of gold, I’ll never forget about the rainbow
  A Little Love,    Oh a Little Love,
  Just a little love,  A little bit of love
