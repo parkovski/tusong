@@ -1,0 +1,12 @@
+import{a as A,f as T}from"./DZn1Z8Rz.js";import"./ChSMYizC.js";import{H as N}from"./CknTgVVk.js";import{h as Y}from"./CnkhO_y8.js";const R={title:"Don't Worry Be Happy"},{title:o}=R;var L=T('<pre class="language-undefined"></pre>');function I(E){var O=L();Y(O,()=>`<code class="language-undefined">HERE’S A LITTLE SONG I WROTE YOU MIGHT WANT TO SING IT NOTE FOR NOTE.  DON’T WORRY,  BE HAPPY
+IN EVERY LIFE WE HAVE SOME TROUBLE. 
+WHEN YOU WORRY YOU MAKE IT DOUBLE.  DON’T WORRY BE HAPPY,LA LA
+
+AIN’T GOT NO PLACE TO LAY YOUR HEAD
+SOMEONE CAME AND TOOK YOUR BED   DON’T WORRY,  BE HAPPY
+LANDLORD SAY YOU’RE RENT IS LATE. HE MAY HAVE TO LITIGATE.   DON’T WORRY,   BE HAPPY.  LA LA LA
+
+AIN’T GOT NO CASH, AIN’T GOT NO STYLE
+AIN’T GOT NO GAL TO MAKE YOU SMILE.  DON’T WORRY  BE HAPPY
+CUZ WHEN YOU WORRY, YOU FACE WILL FROWN
+AND THAT WILL BRING EVERYDODY DOWN.DON’T WORRY BE HAPPY. LA LA </code>`,!0),N(O),A(E,O)}export{I as default,R as metadata};
