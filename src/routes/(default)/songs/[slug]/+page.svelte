@@ -10,10 +10,14 @@
 
 <script lang="ts">
   import type { PageData } from './$types';
-  export let data: PageData;
+  interface Props {
+    data: PageData;
+  }
+
+  let { data }: Props = $props();
 </script>
 
 <article>
   <h1>{ data.title }</h1>
-  <svelte:component this={data.content} />
+  <data.content />
 </article>

@@ -1,5 +1,6 @@
 <script>
-  export let data;
+  /** @type {{data: any}} */
+  let { data } = $props();
 
   function formatDate(date) {
     const dateParts = date.split('-').map(x => +x);

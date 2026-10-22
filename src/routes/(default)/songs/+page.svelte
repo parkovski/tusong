@@ -1,8 +1,9 @@
 <script>
   import Fuse from 'fuse.js';
 
-  export let data;
-  let filteredSongs = data.songs;
+  /** @type {{data: any}} */
+  let { data } = $props();
+  let filteredSongs = $state(data.songs);
 
   const fuse = new Fuse(data.songs, { keys: ['name'] });
 
@@ -58,8 +59,8 @@
 
 <h1>Songs</h1>
 <div id="filtersection">
-  <label>Search: <input type="text" id="filter" on:input={filter}></label>
-  <button id="clearfilter" on:click={clearFilter}>&#10060;</button>
+  <label>Search: <input type="text" id="filter" oninput={filter}></label>
+  <button id="clearfilter" onclick={clearFilter}>&#10060;</button>
 </div>
 <ul>
   <li>Lyrics only:</li>

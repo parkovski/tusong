@@ -1,6 +1,10 @@
 <script lang="ts">
   import type { PageData } from './$types';
-  export let data: PageData;
+  interface Props {
+    data: PageData;
+  }
+
+  let { data }: Props = $props();
 
   // The string Date constructor assumes UTC time, but toDateString uses the
   // local time zone which results in the wrong day being displayed.
@@ -20,5 +24,5 @@
 
 <article>
   <h1>{ data.title } - <span style="font-weight: normal">{ date }</span></h1>
-  <svelte:component this={data.content} />
+  <data.content />
 </article>
