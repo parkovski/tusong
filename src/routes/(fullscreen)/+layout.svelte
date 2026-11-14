@@ -17,4 +17,4 @@
   {@render children?.()}
 </main>
 
-<footer>Copyright &copy; Parkovski Software</footer>
+<footer>Copyright &copy; Shadow Mountain Digital</footer>
