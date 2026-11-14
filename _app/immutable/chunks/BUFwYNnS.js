@@ -1,0 +1,19 @@
+import{a as A,f as U}from"./DZn1Z8Rz.js";import"./ChSMYizC.js";import{H as T}from"./CknTgVVk.js";import{h as N}from"./CnkhO_y8.js";const O={title:"Sugar-Town"},{title:R}=O;var I=U('<pre class="language-undefined"></pre>');function e(E){var S=I();N(S,()=>`<code class="language-undefined"> I GOT SOME TROUBLES BUT THEY WON’T LAST
+ I’M GONNA LAY RIGHT DOWN HERE IN THE GRASS
+ AND PRETTY SOON ALL MY TROUBLES WILL PASS
+ CAUSE I’M IN  SU…SU…SU. SU…SU…SU… SUSUSUSU SUGAR TOWN  OH!
+ 
+I NEVER HAD A DOG THAT LIKED ME SOME
+I NEVER HAD A FRIEND THAT WANTED ONE
+SO I JUST LAY BACK AND LAUGH AT THE SUN
+CAUSE I’M IN  SU SU… SU….SU… SU…   SUGAR TOWN  OH!
+
+YESTER DAY IT RAINED IN TENNESSEE 
+I HEARD IT ALSO RAINED IN TALLAHASEE
+BUT NOT A DROP FELL ON LITTLE OLE ME
+CAUSE I’M IN  SU… SU… SU….SU…SU… SUGAR TOWN    OH!
+
+IF I HAD A MILLION DOLLARS OR TEN
+I’d GIVE IT TO YOU WORLD AND THEN
+YOU’D GO AWAY AND LET ME SPEND
+MY LIFE IN SU…   SU…SU…………….SUGAR TOWN….OH!</code>`,!0),T(S),A(E,S)}export{e as default,O as metadata};

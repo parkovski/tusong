@@ -1,0 +1,19 @@
+import{a as o,f as n}from"./DZn1Z8Rz.js";import"./ChSMYizC.js";import{H as a}from"./CknTgVVk.js";import{h as i}from"./CnkhO_y8.js";const d={title:"Love Potion Number Nine"},{title:u}=d;var r=n('<pre class="language-undefined"></pre>');function p(t){var e=r();i(e,()=>`<code class="language-undefined">I took my troubles down to Madame Ruth
+You know that gypsy with the gold-capped tooth.
+She’s got a pad down on thirty-fourth and Vine.
+Sellin’ little bottles of: Love Potion Number Nine.
+
+I told here that I was a flop with chics.
+I’ve been this way since 1956
+She looked at my palm and she made a magic sign
+She said What you need was : Love Potion Number Nine.
+
+She bent down and turned around and gave me a wink.
+She said I’m gonna make it up right here in the sink
+It smelled like turpentine, it looked like Indian Ink.
+I held my nose and closed my eyes and I took a drink.
+
+I didn’t know if it was day or night.
+I started kissin’ every thing in sight.
+But when I kissed a cop down at Thirty-Fourth and Vine
+She broke my little bottle of:  Love Potion number nine.</code>`,!0),a(e),o(t,e)}export{p as default,d as metadata};

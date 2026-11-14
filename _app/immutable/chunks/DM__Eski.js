@@ -1,0 +1,1 @@
+import{a,f as o}from"./DZn1Z8Rz.js";import"./ChSMYizC.js";const r={title:"Concert at the Highlands",date:"2023-10-07"},{title:s,date:i}=r;var n=o("<p>We hope to see you there!</p>");function m(t){var e=n();a(t,e)}export{m as default,r as metadata};
